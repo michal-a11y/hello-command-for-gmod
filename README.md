@@ -6,3 +6,5 @@ the init.lua need to be placed in  (yourdiskvolumehere)\SteamLibrary\steamapps\c
 This project is licensed under the [Unlicense](LICENSE). Feel free to use, modify, and distribute this project as you wish!
 ## Issue?
 Report a issue in issue tab and get help!
+# Changelog
+v.1.5.1: add error handlers
