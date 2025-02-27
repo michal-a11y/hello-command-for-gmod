@@ -8,3 +8,4 @@ This project is licensed under the [Unlicense](LICENSE). Feel free to use, modif
 Report a issue in issue tab and get help!
 # Changelog
 v.1.5.1: add error handlers
+v.1.5.2: added copyright and info of lua verson and api.
