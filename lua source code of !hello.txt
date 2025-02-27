@@ -1,5 +1,5 @@
  -- !  LUA_VERSION: 5.1 LUAJIT_VERSION: 2.0 LUAJIT_API_VERSION: 2.0
--- ^ copyrigtht:  Unilicense (modiy, distribute, and use)
+-- ^ copyrigtht:  Unlicense (modiy, distribute, and use)
 hook.Add("PlayerSay", "HelloCommandWithErrorHandling", function(ply, text)
     if not SERVER then return end -- Ensure the script runs on the server side
 
