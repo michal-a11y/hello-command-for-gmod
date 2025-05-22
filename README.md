@@ -10,7 +10,7 @@ Report a issue in issue tab and get help!
 v.1.5.1-alpha: add error handlers
 
 v.1.5.2-alpha: added copyright and info of lua verson and api.
-#support the project!
+# support the project!
 to support this project you can donate by:
 sending a steam item: https://steamcommunity.com/tradeoffer/new/?partner=1600617348&token=O03U15qz
 dm me on X a 16-code PIN POLAND paysafecard: https://x.com/A_Nissan_Fan_0
