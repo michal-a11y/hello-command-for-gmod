@@ -13,4 +13,4 @@ v.1.5.2-alpha: added copyright and info of lua verson and api.
 # support the project!
 to support this project you can donate by:
 sending a steam item: https://steamcommunity.com/tradeoffer/new/?partner=1600617348&token=O03U15qz or
-dm me on X a 16-code PIN POLAND paysafecard: https://x.com/A_Nissan_Fan_0
+skrill: siwekmichal712@gmail.com (⚠️ skrill's Fees  apply) 
